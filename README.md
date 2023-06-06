@@ -101,8 +101,7 @@ The Goods Supply-Chain-Dapp leverages the power of blockchain technology and sma
 ### Step2.
 ## Create,Compile & Deploy Smart Contract. 
 
-* Open VScode and open VScode Terimal by Ctrl + ' .
-* **Clone Project** Type the following command and press Enter : git clone : ` https://github.com/faizack619/Supply-Chain-Blockchain.git  
+* Open VScode and open VScode Terimal by Ctrl + ' .  
 * **Install truffle** : Type the following command and press Enter: `npm install -g truffle`
 * **Install dependencies** : Type the following command and press Enter: `npm i`
 * **File structure for  DApp** : 
